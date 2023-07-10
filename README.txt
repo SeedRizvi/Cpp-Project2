@@ -1,4 +1,1 @@
-Platform: Windows 10
-
-Some notes:
-- In remote control mode, the robot must first stop to increase / decrease speed.
+This is the second project created in C++. Here, a robotics simulator "Webots" is used to simulate an automated cafeteria experience. This project taught me mainly about working with third-party tools and libraries, as well the use of makefiles.
